@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-science-projects
 
 - Exploratory Data Analysis (EDA) Portfolio - (Beginner) 
 - Iris Flower Classification - (Beginner)
