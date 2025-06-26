@@ -5,7 +5,7 @@
 - Build Your Own Linear Regression - (Intermediate)
 - Titanic Survival Prediction - (Beginner)
 - Housing Price Predictor - (Beginner)
-- Travel Insurance 
+- [Travel Insurance](https://nbviewer.org/github/hisaylama/Data-Science-Projects/blob/main/Travel_Insurance_Prediction.ipynb) 
 - [Image Classification System](https://nbviewer.org/github/hisaylama/Data-Science-Projects/blob/main/Image_classification_CIFAR10_dataset.ipynb)
 - Sentiment Analysis System - (Intermediate)
 - Customer Churn Predictor - (Beginner)
