@@ -9,7 +9,7 @@
 - [Image Classification System](https://nbviewer.org/github/hisaylama/Data-Science-Projects/blob/main/Image_classification_CIFAR10_dataset.ipynb)
 - Sentiment Analysis System - (Intermediate)
 - Customer Churn Predictor - (Beginner)
-- Stock Price Predictor - (Intermediate)
+- [Stock Price Predictor](https://github.com/hisaylama/Data-Science-Projects/blob/main/StockMarketDataAnalysis.ipynb) 
 - Build Your Own Neural Network - (Advanced)
 - Real-time Face Recognition System - (Advanced)
 - Recommendation System - (Intermediate)
