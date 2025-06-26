@@ -3,7 +3,7 @@
 - Exploratory Data Analysis (EDA) Portfolio - (Beginner) 
 - Iris Flower Classification - (Beginner)
 - Build Your Own Linear Regression - (Intermediate)
-- Titanic Survival Prediction - (Beginner)
+- [Titanic Survival Prediction](https://github.com/hisaylama/Data-Science-Projects/blob/main/Titanic%20Problem%20Kaggle.ipynb) 
 - Housing Price Predictor - (Beginner)
 - [Travel Insurance](https://nbviewer.org/github/hisaylama/Data-Science-Projects/blob/main/Travel_Insurance_Prediction.ipynb) 
 - [Image Classification System](https://nbviewer.org/github/hisaylama/Data-Science-Projects/blob/main/Image_classification_CIFAR10_dataset.ipynb)
